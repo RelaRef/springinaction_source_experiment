@@ -46,6 +46,7 @@
         <module>Chapter_02_stereo-javaconfig</module>
         <module>Chapter_02_stereo-mixedconfig</module>
         <module>Chapter_02_stereo-xmlconfig</module>
+        <module>Chapter_02_my</module>
     </modules>
 
     <dependencies>
