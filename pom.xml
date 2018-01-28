@@ -15,6 +15,10 @@
 
     <modules>
         <module>Chapter_01_knight</module>
+        <module>Chapter_02_stereo-autoconfig</module>
+        <module>Chapter_02_stereo-javaconfig</module>
+        <module>Chapter_02_stereo-mixedconfig</module>
+        <module>Chapter_02_stereo-xmlconfig</module>
     </modules>
 
     <dependencies>
